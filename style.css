@@ -17,11 +17,11 @@ body {
 }
 
 .place1 {
-    height: 477px;
+    height: 485px;
     width: 312px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
-    margin: 131px 625px;
+    margin: 140px 625px;
 }
 
 .place2 {
